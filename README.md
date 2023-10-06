@@ -1,4 +1,7 @@
-# Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Shazam, Redux)
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+# Build and Deploy a Music App with React 18!!
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+Developed a music streaming app using React and Tailwind CSS, where in the music request are fetched using RapidAPI..
+
+Exlusive app that deals with all aspects of any music in a much better way !
+
+# Review it and Do add a star !!!
